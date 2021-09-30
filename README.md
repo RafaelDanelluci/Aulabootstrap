@@ -1,2 +1,2 @@
-# AulaJavaScript
-Aprendendo sobre o JavaScript com bootstrap
+# AulaBootstrap
+Aprendendo sobre o bootstrap
